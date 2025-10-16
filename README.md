@@ -1,2 +1,20 @@
-# Evaluaci-n-N-2-Telepresencia
-Sistema de Calculo de DIstancias para Viajes
+# Evaluacion 2 Telepresencia
+Sistema de Calculo de Distancias para Viajes
+@EstebanReyes
+@BradleyOrtiz
+
+# ¿Como utilizarlo?
+
+Paso 1) Ingresar a https://graphhopper.com/
+
+Paso 2) Crear una cuenta <img width="1008" height="512" alt="image" src="https://github.com/user-attachments/assets/043d446b-9528-4dd1-9558-3893db6d17a2" />
+
+Paso 3) Ingresar al Dashboard y acceder a API Keys <img width="1536" height="660" alt="image" src="https://github.com/user-attachments/assets/874eb0a6-62b4-486e-bc00-a6466a7a3812" />
+
+Paso 4) Actualizar Python
+
+Paso 5) Abrir el terminal y ejecutar "git clone https://github.com/v1Ethereal/Evaluacion2Telepresencia"
+
+Paso 6)  En el mismo terminal escribir "python3 Graphhopper_Español.py
+
+Paso 7) Utilizar
