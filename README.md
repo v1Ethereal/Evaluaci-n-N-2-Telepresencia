@@ -1,5 +1,7 @@
 # Evaluacion 2 Telepresencia
-Sistema de Calculo de Distancias para Viajes
+Proyecto Sistema de Geolocalización DUOC UC
+Docente: Pablo Peñailillo
+
 @EstebanReyes
 @BradleyOrtiz
 
