@@ -13,7 +13,7 @@ Paso 3) Ingresar al Dashboard y acceder a API Keys <img width="1536" height="660
 
 Paso 4) Actualizar Python
 
-Paso 5) Abrir el terminal y ejecutar "git clone https://github.com/v1Ethereal/Evaluacion2Telepresencia"
+Paso 5) Abrir el terminal y ejecutar "git clone https://github.com/v1Ethereal/Evaluacion-2-Telepresencia"
 
 Paso 6)  En el mismo terminal escribir "python3 Graphhopper_Español.py
 
